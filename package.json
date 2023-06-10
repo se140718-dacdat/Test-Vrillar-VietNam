@@ -1,0 +1,23 @@
+{
+  "name": "test-vrillar-vietnam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/se140718-dacdat/Test-Vrillar-VietNam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se140718-dacdat/Test-Vrillar-VietNam/issues"
+  },
+  "homepage": "https://github.com/se140718-dacdat/Test-Vrillar-VietNam#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
